@@ -1,5 +1,5 @@
 # Book Genre Prediction 📚
-This repository showcases how I obtained insights on factors correlating to household income and utilized Machine Learning, as well as Cross Validation techniques to develop a model that can predict household income. The model was made using the SVR model algorithm and achieved MAE score of 4,448. Then, I evaluated the model’s strengths and weaknesses. The analysis and model is deployed on Hugging Face for effective use.
+This repository showcases how I analyzed characteristics of books based on genre and developed a model that can predict the genre of a book based on the book summary with NLP technique. Achieved accuracy rate of 23% and evaluated the model’s strengths and weaknesses. The analysis and model is deployed on Hugging Face for effective use. 
 
 ## Background ❓
 I am a data scientist at a book distribution company. As a company, it is important to know the characteristics of books in order to sort books based on its genre. The information can then be used to make strategies based on book genre.
