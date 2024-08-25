@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib
+scikit-learn
+seaborn
+tensorflow==2.15.0
+tensorflow_hub
+numpy
+nltk
+wordcloud
