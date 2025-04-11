@@ -14,18 +14,16 @@ GitHub: https://github.com/celineclarissa/Book-Genre-Prediction
 
 Background
 
-I am a data scientist at a book distribution company. As a company, it is important to know the characteristics of books in order to sort
-books based on its genre. The information can then be used to make strategies based on book genre.
+As a data scientist at a book distribution company, understanding the characteristics of books is essential for accurately classifying
+them by genre. This classification enables the company to develop targeted strategies and make informed decisions based on genre-specific
+trends and preferences.
 
 Problem Statement and Objective
 
-As a data scientist at a book distribution company, skills of training, testing, tuning, and evaluating a model are important because the
-company can then use the model to predict the genre of a book before accepting to distribute it. The company can then determine a business
-strategy like planning a choosing books to distribute based on genre, for example. This can be done by using data. After analyzing book
-genre characteristics from EDA, data scientist will then do feature engineering towards data. Then, data scientist will do modelling with
-ANN to predict genre of book. Then, data scientist will attempt to improve model. The best model is aimed to have an accuracy score of
-more than 90% and then deployed on HuggingFace for effective use after 7 working days. Webapp where model is deployed will also feature
-a page for EDA.
+The process begins with exploratory data analysis (EDA) to uncover patterns in book genres, followed by feature engineering to enhance the
+dataset. A predictive model is then built using an Artificial Neural Network (ANN), with ongoing efforts to optimize its performance. The
+goal is to achieve an accuracy above 90%, after which the final model will be deployed on Hugging Face within seven working days. The web
+application will also include a dedicated page for interactive EDA visualizations.
 
 ==========================================================================================================================================
 '''
